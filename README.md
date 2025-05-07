@@ -1,21 +1,18 @@
-# AJC-ML_etat_art 🧠
+# 🧠 AJC - Machine Learning : État de l’art
 
-Ce dépôt contient le notebook pédagogique utilisé dans la formation **AJC - Machine Learning, état de l’art**.
+Ce dépôt contient une sélection de notebooks pédagogiques pour explorer les techniques avancées de Machine Learning, dans le cadre de la formation AJC.
 
-## ▶️ Lancer sur Google Colab
+## 📁 Contenu du dépôt
 
-Cliquez sur le badge ci-dessous pour exécuter le notebook directement dans Google Colab :
+- `10-Regressions_v3.ipynb` : Analyse exploratoire du dataset KC_HOUSE et modèle de Régression Linéraire
+- `kc_house_data_modified.csv` : dataset kc_house.csv
 
-[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fred-Zang/AJC-ML_etat_art/blob/main/10-Regressions_v3.ipynb)
 
-## 📁 Contenu
+## 🚀 Exécuter les notebooks sur Google Colab
 
-- `10-Regressions_v3.ipynb` : le notebook principal
-- `data/` : les fichiers de données nécessaires à l'exécution
+- 👉 [Lancer `10-Regressions_v3.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-ML_etat_art/blob/main/10-Regressions_v3.ipynb)
 
-## 🔧 Utilisation dans Colab
+---
 
-Le notebook clone automatiquement ce dépôt pour accéder aux données :
-```python
-!git clone https://github.com/Fred-Zang/AJC-ML_etat_art.git
-%cd AJC-ML_etat_art
+📌 *Notebooks réalisés par Fred Zang dans le cadre de la formation AJC*
+
