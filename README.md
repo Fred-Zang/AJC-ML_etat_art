@@ -16,9 +16,6 @@ Ce dépôt contient une sélection de notebooks pédagogiques pour explorer les 
 
 - ➡️ [Voir le rapport HTML dans le navigateur](https://raw.githack.com/Fred-Zang/AJC-ML_etat_art/main/0.0_Carte_de_l_IA-2025.html)
 
-## 🚀 Exécuter le support de cours sur excalidraw.com
-
-- 🧠 [Ouvrir le support de cours Excalidraw](https://excalidraw.com/#json=https://raw.githubusercontent.com/Fred-Zang/AJC-ML_etat_art/main/ML-etat_de_l_art-ajc.excalidraw)
 
 
 ---
